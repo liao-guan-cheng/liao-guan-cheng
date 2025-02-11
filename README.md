@@ -1,9 +1,9 @@
 ## Hi I'm Liao 👋
 
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=liao-guan-cheng&show_icons=true&hide_title=true&count_private=true)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=liao-guan-cheng&layout=compact)
 
-![GitHub Streak Stats](https://github-readme-streak-stats.herokuapp.com/?user=liao-guan-cheng)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=liao-guan-cheng&show_icons=true&hide_title=true&count_private=true)
 
 ![Language Card](https://github-readme-stats.vercel.app/api/top-langs/?username=liao-guan-cheng&langs_count=5)
 
